@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
