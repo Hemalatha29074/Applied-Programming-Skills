@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1154-day-of-the-year](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
