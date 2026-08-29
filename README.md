@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1154-day-of-the-year](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1360-number-of-days-between-two-dates) |
+| [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
