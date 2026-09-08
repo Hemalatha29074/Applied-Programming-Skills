@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0344-reverse-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
