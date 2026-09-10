@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
