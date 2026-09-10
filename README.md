@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1360-number-of-days-between-two-dates) |
 | [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
+| [1408-string-matching-in-an-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sorting
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
