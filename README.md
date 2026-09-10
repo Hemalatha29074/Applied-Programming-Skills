@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1472-design-browser-history](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1732-find-the-highest-altitude) |
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
