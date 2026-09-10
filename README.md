@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1472-design-browser-history](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0890-find-and-replace-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1360-number-of-days-between-two-dates) |
 | [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
