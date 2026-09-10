@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
 | [1472-design-browser-history](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1314-matrix-block-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
