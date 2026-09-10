@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
