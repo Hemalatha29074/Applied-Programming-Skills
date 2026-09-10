@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
