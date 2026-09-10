@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0704-binary-search) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [1396-design-underground-system](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/1396-design-underground-system) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Hemalatha29074/Applied-Programming-Skills/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
